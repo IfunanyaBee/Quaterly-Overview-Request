@@ -1,5 +1,5 @@
 # Quaterly-Overview-Request
-This is a project carried out to answer a real-life problem from a company stake holder on the state of sales of the company. The project usus a request email from a Boss for an all-round overview of sales in Second quarter.
+This is a project carried out to answer a real-life problem from a company stake holder on the state of sales of the company. The project uses a request email from a Boss for an all-round overview of sales in Second quarter using Microsoft Excel only.
 
 -  Data cleaning using Microsoft Excel
 -  Extraction of required data
